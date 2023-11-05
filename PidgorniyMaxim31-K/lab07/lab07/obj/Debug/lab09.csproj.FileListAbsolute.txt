@@ -1,0 +1,10 @@
+C:\Users\Maxim\source\repos\lab09\lab09\bin\Debug\lab09.exe.config
+C:\Users\Maxim\source\repos\lab09\lab09\bin\Debug\lab09.exe
+C:\Users\Maxim\source\repos\lab09\lab09\bin\Debug\lab09.pdb
+C:\Users\Maxim\source\repos\lab09\lab09\obj\Debug\lab09.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\lab09\lab09\obj\Debug\lab09.fMain.resources
+C:\Users\Maxim\source\repos\lab09\lab09\obj\Debug\lab09.Properties.Resources.resources
+C:\Users\Maxim\source\repos\lab09\lab09\obj\Debug\lab09.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\lab09\lab09\obj\Debug\lab09.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\source\repos\lab09\lab09\obj\Debug\lab09.exe
+C:\Users\Maxim\source\repos\lab09\lab09\obj\Debug\lab09.pdb
